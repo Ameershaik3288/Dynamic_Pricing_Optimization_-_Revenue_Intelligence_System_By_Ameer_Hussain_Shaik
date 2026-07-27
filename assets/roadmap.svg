@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="650" viewBox="0 0 1500 650">
+<rect width="1500" height="650" rx="28" fill="#0f172a"/>
+<text x="750" y="70" text-anchor="middle" font-family="Arial" font-size="36" font-weight="700" fill="#f8fafc">8-Week Build Roadmap</text>
+<text x="750" y="108" text-anchor="middle" font-family="Arial" font-size="17" fill="#94a3b8">From foundation to deployment</text>
+<g font-family="Arial">
+ <line x1="170" y1="330" x2="1330" y2="330" stroke="#475569" stroke-width="8"/>
+ <circle cx="210" cy="330" r="42" fill="#22d3ee"/><circle cx="570" cy="330" r="42" fill="#818cf8"/><circle cx="930" cy="330" r="42" fill="#a78bfa"/><circle cx="1290" cy="330" r="42" fill="#34d399"/>
+ <text x="210" y="342" text-anchor="middle" font-size="28" font-weight="700" fill="#0f172a">01</text><text x="570" y="342" text-anchor="middle" font-size="28" font-weight="700" fill="#0f172a">02</text><text x="930" y="342" text-anchor="middle" font-size="28" font-weight="700" fill="#0f172a">03</text><text x="1290" y="342" text-anchor="middle" font-size="28" font-weight="700" fill="#0f172a">04</text>
+ <text x="210" y="215" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">Weeks 1–2</text><text x="210" y="250" text-anchor="middle" font-size="16" fill="#94a3b8">Core Setup</text><text x="210" y="275" text-anchor="middle" font-size="15" fill="#cbd5e1">Auth • Data • Dashboard</text>
+ <text x="570" y="420" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">Weeks 3–4</text><text x="570" y="455" text-anchor="middle" font-size="16" fill="#94a3b8">AI Intelligence</text><text x="570" y="480" text-anchor="middle" font-size="15" fill="#cbd5e1">Price • Demand Forecasts</text>
+ <text x="930" y="215" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">Weeks 5–6</text><text x="930" y="250" text-anchor="middle" font-size="16" fill="#94a3b8">Market Intelligence</text><text x="930" y="275" text-anchor="middle" font-size="15" fill="#cbd5e1">Competitors • Revenue</text>
+ <text x="1290" y="420" text-anchor="middle" font-size="23" font-weight="700" fill="#f8fafc">Weeks 7–8</text><text x="1290" y="455" text-anchor="middle" font-size="16" fill="#94a3b8">Ship It</text><text x="1290" y="480" text-anchor="middle" font-size="15" fill="#cbd5e1">Test • Docker • Cloud</text>
+</g>
+</svg>

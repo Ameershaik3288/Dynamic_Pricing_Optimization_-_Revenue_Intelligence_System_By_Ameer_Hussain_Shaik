@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1020"/><stop offset="55%" stop-color="#14213d"/><stop offset="100%" stop-color="#0e7490"/>
+  </linearGradient>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#a78bfa"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1600" height="520" rx="36" fill="url(#bg)"/>
+<circle cx="1370" cy="90" r="240" fill="#22d3ee" opacity=".07"/>
+<circle cx="1500" cy="410" r="300" fill="#a78bfa" opacity=".08"/>
+<g opacity=".18" stroke="#cbd5e1" fill="none">
+ <path d="M960 390 C1090 300 1120 210 1240 240 S1410 350 1550 170"/>
+ <path d="M960 420 C1100 350 1200 390 1300 300 S1450 240 1570 290"/>
+</g>
+<g transform="translate(110,115)" filter="url(#shadow)">
+ <rect width="240" height="240" rx="52" fill="#111827" stroke="#38bdf8" stroke-width="3"/>
+ <path d="M65 170 L65 92 L110 125 L160 55 L190 80 L190 170" fill="none" stroke="url(#glow)" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+ <circle cx="65" cy="92" r="11" fill="#22d3ee"/><circle cx="110" cy="125" r="11" fill="#818cf8"/><circle cx="160" cy="55" r="11" fill="#a78bfa"/><circle cx="190" cy="80" r="11" fill="#22d3ee"/>
+</g>
+<text x="420" y="190" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">PricePilot AI</text>
+<text x="425" y="260" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="31">Dynamic Pricing Optimization &amp; Revenue Intelligence</text>
+<rect x="425" y="305" width="560" height="5" rx="3" fill="url(#glow)"/>
+<text x="425" y="365" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="22">Predict • Optimize • Compete • Grow</text>
+<g transform="translate(1180,110)">
+ <rect width="300" height="250" rx="24" fill="#0f172a" opacity=".8" stroke="#334155"/>
+ <text x="28" y="48" fill="#94a3b8" font-family="Arial" font-size="18">REVENUE INTELLIGENCE</text>
+ <text x="28" y="108" fill="#f8fafc" font-family="Arial" font-size="42" font-weight="700">+₹ 1.25M</text>
+ <text x="28" y="140" fill="#94a3b8" font-family="Arial" font-size="16">simulated opportunity</text>
+ <polyline points="30,210 75,175 120,190 165,125 210,145 260,72" fill="none" stroke="#22d3ee" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

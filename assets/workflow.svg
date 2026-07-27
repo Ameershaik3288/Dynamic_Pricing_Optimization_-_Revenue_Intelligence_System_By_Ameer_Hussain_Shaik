@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="700" viewBox="0 0 1500 700">
+<defs><linearGradient id="w" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#164e63"/></linearGradient></defs>
+<rect width="1500" height="700" rx="28" fill="#f8fafc"/>
+<text x="750" y="62" text-anchor="middle" font-family="Arial" font-size="34" font-weight="700" fill="#0f172a">End-to-End Intelligent Pricing Workflow</text>
+<text x="750" y="98" text-anchor="middle" font-family="Arial" font-size="17" fill="#64748b">A continuous decision loop for smarter pricing</text>
+<g font-family="Arial">
+ <rect x="80" y="180" width="220" height="120" rx="20" fill="url(#w)"/><text x="190" y="225" text-anchor="middle" font-size="22" font-weight="700" fill="white">1. Collect</text><text x="190" y="260" text-anchor="middle" font-size="15" fill="#bae6fd">Sales • Price • Stock</text>
+ <rect x="340" y="180" width="220" height="120" rx="20" fill="#e0f2fe" stroke="#0284c7" stroke-width="3"/><text x="450" y="225" text-anchor="middle" font-size="22" font-weight="700" fill="#075985">2. Prepare</text><text x="450" y="260" text-anchor="middle" font-size="15" fill="#475569">Validate • Clean • Transform</text>
+ <rect x="600" y="180" width="220" height="120" rx="20" fill="#eef2ff" stroke="#6366f1" stroke-width="3"/><text x="710" y="225" text-anchor="middle" font-size="22" font-weight="700" fill="#312e81">3. Predict</text><text x="710" y="260" text-anchor="middle" font-size="15" fill="#475569">Price • Demand • Trends</text>
+ <rect x="860" y="180" width="220" height="120" rx="20" fill="#f5f3ff" stroke="#8b5cf6" stroke-width="3"/><text x="970" y="225" text-anchor="middle" font-size="22" font-weight="700" fill="#5b21b6">4. Compare</text><text x="970" y="260" text-anchor="middle" font-size="15" fill="#475569">Competitor • Market</text>
+ <rect x="1120" y="180" width="300" height="120" rx="20" fill="#f0fdf4" stroke="#16a34a" stroke-width="3"/><text x="1270" y="225" text-anchor="middle" font-size="22" font-weight="700" fill="#166534">5. Optimize</text><text x="1270" y="260" text-anchor="middle" font-size="15" fill="#475569">Revenue • Profit • Strategy</text>
+</g>
+<g stroke="#0e7490" stroke-width="6" fill="none">
+ <path d="M300 240 H340"/><path d="M560 240 H600"/><path d="M820 240 H860"/><path d="M1080 240 H1120"/>
+ <path d="M1270 300 V500 H190 V300"/>
+</g>
+<g font-family="Arial">
+ <rect x="460" y="430" width="580" height="120" rx="24" fill="#0f172a"/>
+ <text x="750" y="478" text-anchor="middle" font-size="26" font-weight="700" fill="white">6. Recommend &amp; Monitor</text>
+ <text x="750" y="515" text-anchor="middle" font-size="16" fill="#94a3b8">Dashboards • Confidence Scores • Business Decisions</text>
+</g>
+</svg>
